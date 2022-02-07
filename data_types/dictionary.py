@@ -1,4 +1,5 @@
 company = {"Name": "Netflix", "Stock Name": "NFLX", "Stock Price": 410.17}
+print(type(company))
 print(company)
 
 print()
