@@ -3,4 +3,5 @@ def print_name(first_name, last_name):
     return f"{first_name} {last_name}"
 
 print(print_name("John", "Doe"))
-print(f"{first_name} {last_name}")
+# error
+# print(f"{first_name} {last_name}")
