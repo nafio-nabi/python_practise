@@ -18,3 +18,7 @@ print(num_one // num_two)
 
 # Modulo division
 print(num_one % num_two)
+
+# Order of operations
+print(num_one + num_two * 2)
+print((num_one + num_two) * 2)
