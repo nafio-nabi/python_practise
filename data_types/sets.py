@@ -4,7 +4,5 @@ print(names)
 names.add("Harry Kane")
 print(names)
 
-last_name = names.pop()
+names.remove("Harry Kane")
 print(names)
-
-print(last_name)
